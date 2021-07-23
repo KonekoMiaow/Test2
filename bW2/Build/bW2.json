@@ -1,0 +1,15 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Team Unity Zombie Game",
+"productVersion": "1.0",
+"dataUrl": "bW2.data.unityweb",
+"wasmCodeUrl": "bW2.wasm.code.unityweb",
+"wasmFrameworkUrl": "bW2.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.9f1"
+}
